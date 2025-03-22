@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 About Me
-Under construction
