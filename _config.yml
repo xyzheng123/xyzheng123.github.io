@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiang Yu Zheng's Home Page"
+title                    : "Xiang Yu Zheng, MS"
 title_separator          : "-"
 name                     : &name "Xiang Yu Zheng"
 description              : &description "Bioinformatic Researcher at AECOM"
@@ -25,11 +25,11 @@ author:
   avatar           : "Zheng_Xiang_Yu_Portraits_square.jpg"
   name             : "Xiang Yu Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Bioinformatic Researcher Specialized in Cancer Genomics & Transcriptomics | PhD Candidate"
-  location         : "Bronx, NY"
-  employer         : "AECOM"
+  bio              : "Bioinformatic Researcher Specialized in Cancer Genomics & Transcriptomics"
+  location         : "New York"
+  employer         : # employer
   uri              : # URL
-  email            : "xiangyu.zheng@einsteinmed.edu" 
+  email            : # email
 
   # Academic websites
   arxiv            : # URL 
