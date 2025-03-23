@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+#Background#
+
+Welcome to my page!
+
+Skills and Interests
